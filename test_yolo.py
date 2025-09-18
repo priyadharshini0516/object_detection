@@ -1,3 +1,4 @@
+from ultralytics import YOLO
 import cv2
 
 # Load YOLOv8 model (Nano version - fastest)
